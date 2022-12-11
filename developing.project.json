@@ -1,0 +1,19 @@
+{
+	"name": "Switch",
+	"servePlaceIds": [11787538062],
+	"tree": {
+		"$className": "DataModel",
+		"ServerScriptService": {
+			"$ignoreUnknownInstances": true,
+			"$className": "ServerScriptService",
+			"$path": "src/Server"
+		},
+		"ReplicatedStorage": {
+			"$ignoreUnknownInstances": true,
+			"$className": "ReplicatedStorage",
+			"MainModule": {
+				"$path": "src/Module"
+			}
+		}
+	}
+}
